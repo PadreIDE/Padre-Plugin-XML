@@ -8,7 +8,7 @@ license: perl
 resources:
   homepage: http://padre.perlide.org/
   license: http://dev.perl.org/licenses/
-  repository: http://svn.perlide.org/padre/trunk/Padre-Plugin-XML/
+  repository: https://github.com/PadreIDE/Padre-Plugin-XML/
 requires:
   Padre: 0.26
   XML::LibXML: 1.67
